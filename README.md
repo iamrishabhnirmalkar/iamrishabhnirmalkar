@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Nirmalkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="data/octocat/daftpunktocat-guy.gif" />
 
 <p align="left"> <a href="https://twitter.com/rishabh_nir" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh_nir?logo=twitter&style=for-the-badge" alt="rishabh_nir" /></a> </p>
 
