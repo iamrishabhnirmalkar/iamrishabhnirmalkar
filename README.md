@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React , Backend**
 
-- 💬 Ask me about **Javascript, Python,**
+- 💬 Ask me about **Web Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
