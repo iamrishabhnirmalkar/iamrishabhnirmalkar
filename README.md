@@ -19,14 +19,14 @@ _Digital Craftsman (Developer / Programmer)_
 I am a Full Stack Developer and tech enthusiast with extensive knowledge of JavaScript, Python, PHP, and TypeScript, along with frameworks and libraries such as React, Next.js, Laravel, Django, and Django REST Framework." </p>
 
 - 👨‍💻 Currently working as a Software Developer at Bitwise Builder.
-- 🌱 I’m always learning—I believe every day is an opportunity to grow and acquire new knowledge.
+- 🌱 I'm always learning—I believe every day is an opportunity to grow and acquire new knowledge.
 - ✍ I write technical blogs—check them out on [Medium](https://medium.com/@iamrishabhnirmalkar).
 - 💻 Visit my [Portfolio](/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iamrishabhnirmalkar&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="iamrishabhnirmalkar" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=iamrishabhnirmalkar&label=Profile%20views&color=FFD700&style=for-the-badge&logo=star" alt="iamrishabhnirmalkar" style="padding-right:20px;" />
 </p>
 
 ---
@@ -63,9 +63,9 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
 <p align="center">
   <a href="https://github.com/iamrishabhnirmalkar">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=iamrishabhnirmalkar&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=iamrishabhnirmalkar&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=iamrishabhnirmalkar&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=iamrishabhnirmalkar&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=gruvbox">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=iamrishabhnirmalkar&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=gruvbox">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=iamrishabhnirmalkar&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=gruvbox">
     </picture>
   </a>
 </p>
@@ -80,7 +80,7 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/iamrishabhnirmalkar">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrishabhnirmalkar&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrishabhnirmalkar&count_private=true&show_icons=true&theme=gruvbox&bg_color=0,000000,FFD700&title_color=000000&text_color=000000&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -88,7 +88,7 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/iamrishabhnirmalkar">
-          <img align="center" src="https://streak-stats.demolab.com?user=iamrishabhnirmalkar&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=iamrishabhnirmalkar&theme=gruvbox&background=0,000000,FFD700&fire=000000&ring=000000&sideNums=000000&sideLabels=000000&dates=000000&currStreakNum=000000" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -98,7 +98,7 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/iamrishabhnirmalkar/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrishabhnirmalkar&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrishabhnirmalkar&repo=Awesome-Dev-Portfolios&theme=gruvbox&show_owner=true&bg_color=0,000000,FFD700&title_color=000000&text_color=000000" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
@@ -106,7 +106,7 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/iamrishabhnirmalkar">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=iamrishabhnirmalkar&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=iamrishabhnirmalkar&limit=2&theme=gruvbox&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,FFD700&title_color=000000&text_color=000000" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -117,7 +117,7 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrishabhnirmalkar&bg_color=d6d000&&color=ffffff&line=0b0b0b&point=0b0b0b&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrishabhnirmalkar&bg_color=FFD700&&color=000000&line=000000&point=000000&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -127,12 +127,11 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=A%20good%20master%20leads%20you%20to%20the%20true%20master%20within.%20Only%20that%20master%2C%20who%20is%20your%20own%20higher%20self%2C%20can%20adequately%20answer%20all%20questions.&theme=dark&bg_color=d6d000&author_color=0b0b0b&accent_color=f6f6f6">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=A%20good%20master%20leads%20you%20to%20the%20true%20master%20within.%20Only%20that%20master%2C%20who%20is%20your%20own%20higher%20self%2C%20can%20adequately%20answer%20all%20questions.&theme=light&bg_color=FFD700&author_color=000000&accent_color=000000">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
 <!--Contact Section-->
-
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
