@@ -42,16 +42,17 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+ <li>Currently learning backend development with different technologies</li>
+  <li>Learning DevOps for growth purposes</li>
+  <li>Starting to write tech blogs for tech enthusiasts</li>
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
-  <li><a href="https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
-  <li><a href="https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
+
+  <li><a href="https://medium.com/@iamrishabhnirmalkar/next-js-frontend-template-setup-915602b39d1c">⚛️ Next.js Frontend — Template Setup 🎨</a></li>
+  <li><a href="https://medium.com/@iamrishabhnirmalkar/production-project-setup-for-node-997fd5cdedcf">🚀 Production Project Setup For Node.js 🛠️</a></li>
+
 </ul>
 <br />
 <br />
@@ -147,7 +148,7 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
 <img src="./instagram.png" width=50 height=50 alt="iamrishunir" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/iamrishabhnirmalkar" target="_blank">
+<a href="https://github.com/iamrishabhnirmalkar" target="_blank">
 <img src="./github.png" width=50 height=50 alt="iamrishabhnirmalkar" style="margin-bottom: 5px;" />
 </a>
 
