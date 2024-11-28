@@ -99,7 +99,7 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/iamrishabhnirmalkar/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrishabhnirmalkar&repo=Awesome-Dev-Portfolios&theme=gruvbox&show_owner=true&bg_color=0,000000,FFD700&title_color=000000&text_color=000000" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrishabhnirmalkar&repo=Awesome-Dev-Portfolios&theme=gruvbox&show_owner=true&bg_color=0,000000,FFD700&title_color=FFFFFF&text_color=FFFFFF" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
