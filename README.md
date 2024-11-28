@@ -96,7 +96,7 @@ I’m a **Full Stack Developer** and **Tech Enthusiast** passionate about crafti
 ## 🌟 **Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ**
 
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=light&bg_color=FFD700&accent_color=000" alt="Thought of the Day"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=282828&accent_color=FFD700" alt="Thought of the Day"/>
 </p>
 
 ---
