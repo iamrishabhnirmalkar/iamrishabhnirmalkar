@@ -107,7 +107,7 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/iamrishabhnirmalkar">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=iamrishabhnirmalkar&limit=2&theme=gruvbox&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,FFD700&title_color=000000&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=iamrishabhnirmalkar&limit=2&theme=gruvbox&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,ffffff,ffffff&title_color=ffffff&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
