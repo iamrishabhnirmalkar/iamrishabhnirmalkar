@@ -74,11 +74,11 @@ I’m a **Full Stack Developer** and **Tech Enthusiast** passionate about crafti
   <tr>
     <td align="center">
       <strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=iamrishabhnirmalkar&show_icons=true&theme=gruvbox&bg_color=FFD700&text_color=000&hide_border=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=iamrishabhnirmalkar&show_icons=true&theme=gruvbox&bg_color=282828&text_color=FFD700&hide_border=true" alt="GitHub Stats"/>
     </td>
     <td align="center">
       <strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong><br>
-      <img src="https://streak-stats.demolab.com?user=iamrishabhnirmalkar&theme=gruvbox&fire=FFD700&ring=FFD700&dates=000&hide_border=true" alt="Streak Stats"/>
+      <img src="https://streak-stats.demolab.com?user=iamrishabhnirmalkar&theme=gruvbox&background=282828&fire=FFD700&ring=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700&hide_border=true" alt="Streak Stats"/>
     </td>
   </tr>
 </table>
@@ -88,7 +88,17 @@ I’m a **Full Stack Developer** and **Tech Enthusiast** passionate about crafti
 ## 📈 **Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrishabhnirmalkar&theme=yellow-dark&bg_color=FFD700&line=000&point=000&color=000" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrishabhnirmalkar&bg_color=282828&color=FFD700&line=FFD700&point=FFD700&area_color=FFD700" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 **Gɪᴛʜᴜʙ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs**
+
+<p align="center">
+  <a href="https://github.com/iamrishabhnirmalkar">
+    <img src="https://github-profile-trophy.vercel.app/?username=iamrishabhnirmalkar&theme=gruvbox&row=2&column=4&margin-w=20&margin-h=20&no-frame=true&bg_color=282828&title_color=FFD700" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
