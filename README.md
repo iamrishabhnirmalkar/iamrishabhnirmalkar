@@ -89,7 +89,7 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/iamrishabhnirmalkar">
-          <img align="center" src="https://streak-stats.demolab.com?user=iamrishabhnirmalkar&theme=gruvbox&background=0,000000,FFD700&fire=000000&ring=000000&sideNums=000000&sideLabels=000000&dates=000000&currStreakNum=000000" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=iamrishabhnirmalkar&theme=gruvbox&background=0,000000,FFD700&fire=000000&ring=000000&sideNums=000000&sideLabels=000000&dates=000000&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -107,7 +107,7 @@ I am a Full Stack Developer and tech enthusiast with extensive knowledge of Java
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/iamrishabhnirmalkar">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=iamrishabhnirmalkar&limit=2&theme=gruvbox&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,FFD700&title_color=000000&text_color=000000" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=iamrishabhnirmalkar&limit=2&theme=gruvbox&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,FFD700&title_color=000000&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
