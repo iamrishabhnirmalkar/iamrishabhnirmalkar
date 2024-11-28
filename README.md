@@ -62,7 +62,7 @@ I’m a **Full Stack Developer** and **Tech Enthusiast** passionate about crafti
 
 <p align="center">
   <a href="https://github.com/iamrishabhnirmalkar">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamrishabhnirmalkar&theme=juicyfresh&row=2&column=4&margin-w=20&margin-h=20&no-frame=true&bg_color=FFD700&title_color=000000" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=iamrishabhnirmalkar&theme=gruvbox&row=2&column=4&margin-w=20&margin-h=20&no-frame=true&bg_color=282828&title_color=FFD700" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -89,16 +89,6 @@ I’m a **Full Stack Developer** and **Tech Enthusiast** passionate about crafti
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrishabhnirmalkar&bg_color=282828&color=FFD700&line=FFD700&point=FFD700&area_color=FFD700" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🏆 **Gɪᴛʜᴜʙ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs**
-
-<p align="center">
-  <a href="https://github.com/iamrishabhnirmalkar">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamrishabhnirmalkar&theme=gruvbox&row=2&column=4&margin-w=20&margin-h=20&no-frame=true&bg_color=282828&title_color=FFD700" alt="GitHub Trophies"/>
-  </a>
 </p>
 
 ---
