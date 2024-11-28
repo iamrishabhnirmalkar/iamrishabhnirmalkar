@@ -20,11 +20,11 @@ I’m a **Full Stack Developer** and **Tech Enthusiast** passionate about crafti
 - 💻 **Visit my [Portfolio](/)** for detailed work.
 - 💬 **Let’s connect for collaborations or projects.**
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamrishabhnirmalkar&label=ᴘʀᴏғɪʟᴇ ᴠɪᴇᴡs&color=FFD700&style=for-the-badge" alt="iamrishabhnirmalkar"/>
-</p>
+</p> -->
 
 ---
 
@@ -74,11 +74,11 @@ I’m a **Full Stack Developer** and **Tech Enthusiast** passionate about crafti
   <tr>
     <td align="center">
       <strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=iamrishabhnirmalkar&show_icons=true&theme=gruvbox&bg_color=FFD700&text_color=000&hide_border=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=iamrishabhnirmalkar&show_icons=true&bg_color=FFD700&text_color=000000&title_color=000000&icon_color=000000&hide_border=true" alt="GitHub Stats"/>
     </td>
     <td align="center">
       <strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong><br>
-      <img src="https://streak-stats.demolab.com?user=iamrishabhnirmalkar&theme=gruvbox&fire=FFD700&ring=FFD700&dates=000&hide_border=true" alt="Streak Stats"/>
+      <img src="https://streak-stats.demolab.com?user=iamrishabhnirmalkar&background=FFD700&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&hide_border=true" alt="Streak Stats"/>
     </td>
   </tr>
 </table>
@@ -88,7 +88,7 @@ I’m a **Full Stack Developer** and **Tech Enthusiast** passionate about crafti
 ## 📈 **Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrishabhnirmalkar&theme=yellow-dark&bg_color=FFD700&line=000&point=000&color=000" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrishabhnirmalkar&bg_color=FFD700&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
