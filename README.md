@@ -6,7 +6,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜɪ, ɪ'ᴍ **Rɪsʜᴀʙʜ!**
 
-🎯 _Dɪɢɪᴛᴀʟ Cʀᴀғᴛsᴍᴀɴ | Sᴏғᴛᴡᴀʀᴇ Dᴇᴠᴇʟᴏᴘᴇʀ_
+🎯 Bob The Builder
 
 ---
 
