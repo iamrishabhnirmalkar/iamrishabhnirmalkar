@@ -34,27 +34,7 @@ I'm a passionate **Full Stack Developer** who believes in delivering results, no
 
 </div>
 
-**Next.js Frontend Template** 🎨
-- Production-ready Next.js setup with best practices
-- Optimized performance and SEO configurations
-- Modern UI/UX patterns and component architecture
-- [Read More →](https://medium.com/@iamrishabhnirmalkar/next-js-frontend-template-setup-915602b39d1c)
 
-**Node.js Production Setup** 🛠️
-- Enterprise-grade Node.js project structure
-- Scalable architecture with Docker integration
-- Security best practices and performance optimization
-- [Read More →](https://medium.com/@iamrishabhnirmalkar/production-project-setup-for-node-997fd5cdedcf)
-
-**E-Commerce Solutions**
-- Custom Shopify integrations and themes
-- WordPress & WooCommerce implementations
-- API integrations for seamless operations
-
-**Custom Development**
-- Tailored solutions for unique business needs
-- Full-stack applications with modern tech stacks
-- API development and third-party integrations
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -63,14 +43,14 @@ I'm a passionate **Full Stack Developer** who believes in delivering results, no
 <div align="center">
 
 <table>
-  <tr>
+  <!-- <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=iamrishabhnirmalkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="180"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrishabhnirmalkar&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F" alt="Streak Stats" height="180"/>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrishabhnirmalkar&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
