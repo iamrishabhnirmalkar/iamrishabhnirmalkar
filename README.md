@@ -30,11 +30,13 @@ I'm a passionate **Full Stack Developer** who believes in delivering results, no
 
 <div align="center">
 
-### **Featured Work**
+### **SaaS Products**
+
+**School Management SaaS** - [schoolonerp.com](https://schoolonerp.com)
+
+**Doctor Management System** - [experteeth.in](https://experteeth.in)
 
 </div>
-
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -43,14 +45,14 @@ I'm a passionate **Full Stack Developer** who believes in delivering results, no
 <div align="center">
 
 <table>
-  <!-- <tr>
+  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=iamrishabhnirmalkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="180"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrishabhnirmalkar&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F" alt="Streak Stats" height="180"/>
     </td>
-  </tr> -->
+  </tr>
 </table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrishabhnirmalkar&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
