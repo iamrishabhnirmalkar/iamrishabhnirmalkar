@@ -26,65 +26,35 @@ I'm a passionate **Full Stack Developer** who believes in delivering results, no
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ **Tech Arsenal**
+## 🚀 **Production Projects**
 
 <div align="center">
 
-### **Frontend Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend Development**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
-
-### **E-Commerce & CMS**
-
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### **APIs & Integration**
-
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Shopify API](https://img.shields.io/badge/Shopify_API-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![WordPress API](https://img.shields.io/badge/WordPress_API-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### **DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### **Custom Solutions**
-
-![Custom Development](https://img.shields.io/badge/Custom_Solutions-FFD700?style=for-the-badge&logo=codepen&logoColor=000)
+### **Featured Work**
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+**Next.js Frontend Template** 🎨
+- Production-ready Next.js setup with best practices
+- Optimized performance and SEO configurations
+- Modern UI/UX patterns and component architecture
+- [Read More →](https://medium.com/@iamrishabhnirmalkar/next-js-frontend-template-setup-915602b39d1c)
 
-## 📝 **Latest Blog Posts**
+**Node.js Production Setup** 🛠️
+- Enterprise-grade Node.js project structure
+- Scalable architecture with Docker integration
+- Security best practices and performance optimization
+- [Read More →](https://medium.com/@iamrishabhnirmalkar/production-project-setup-for-node-997fd5cdedcf)
 
-<!-- BLOG-POST-LIST:START -->
-- [⚛️ Next.js Frontend — Template Setup 🎨](https://medium.com/@iamrishabhnirmalkar/next-js-frontend-template-setup-915602b39d1c)
-- [🚀 Production Project Setup For Node.js 🛠️](https://medium.com/@iamrishabhnirmalkar/production-project-setup-for-node-997fd5cdedcf)
-<!-- BLOG-POST-LIST:END -->
+**E-Commerce Solutions**
+- Custom Shopify integrations and themes
+- WordPress & WooCommerce implementations
+- API integrations for seamless operations
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🏆 **GitHub Achievements**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamrishabhnirmalkar&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
-</p>
+**Custom Development**
+- Tailored solutions for unique business needs
+- Full-stack applications with modern tech stacks
+- API development and third-party integrations
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -104,18 +74,6 @@ I'm a passionate **Full Stack Developer** who believes in delivering results, no
 </table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrishabhnirmalkar&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 💡 **Philosophy**
-
-<div align="center">
-
-> **"Your problem is my challenge. Your success is my satisfaction."**
-
-I believe in creating solutions that **actually work** for real-world problems. It's not about the frameworks or buzzwords—it's about understanding **your needs** and delivering **results that matter**.
 
 </div>
 
