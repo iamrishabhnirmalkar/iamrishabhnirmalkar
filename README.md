@@ -30,11 +30,27 @@ I'm a passionate **Full Stack Developer** who believes in delivering results, no
 
 <div align="center">
 
-### **SaaS Products**
+### **Enterprise SaaS Solutions**
 
-**School Management SaaS** - [schoolonerp.com](https://schoolonerp.com)
+</div>
 
-**Doctor Management System** - [experteeth.in](https://experteeth.in)
+**School Management ERP** - [erp.schoolonerp.com](https://erp.schoolonerp.com)
+- Complete SaaS platform for school management handling all organizational workflows
+- Full-stack solution covering frontend and backend operations
+- Manages students, staff, academics, attendance, fees, and administrative tasks
+- Built for schools and educational institutions of any size
+
+**Doctor & Patient Management CRM** - [experteeth.in](https://experteeth.in)
+- Comprehensive SaaS CRM for healthcare professionals
+- Complete frontend solution for doctor and patient management
+- Handles appointments, patient records, treatments, and clinic operations
+- Streamlined workflow for dental and medical practices
+
+**Real Estate Property Management** - [app.bajajrealestate.com](https://app.bajajrealestate.com)
+- Property management and real estate dealing platform
+- Complete frontend solution for real estate operations
+- Manages property listings, client relationships, and transaction workflows
+- Built for real estate agencies and property dealers
 
 </div>
 
