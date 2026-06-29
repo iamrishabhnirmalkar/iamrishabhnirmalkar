@@ -34,11 +34,7 @@ I'm a passionate **Full Stack Developer** who believes in delivering results, no
 
 </div>
 
-**School Management ERP** - [erp.schoolonerp.com](https://erp.schoolonerp.com)
-- Complete SaaS platform for school management handling all organizational workflows
-- Full-stack solution covering frontend and backend operations
-- Manages students, staff, academics, attendance, fees, and administrative tasks
-- Built for schools and educational institutions of any size
+
 
 **Doctor & Patient Management CRM** - [experteeth.in](https://experteeth.in)
 - Comprehensive SaaS CRM for healthcare professionals
