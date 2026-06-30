@@ -32,23 +32,7 @@ I'm a passionate **Full Stack Developer** who believes in delivering results, no
 
 ### **Enterprise SaaS Solutions**
 
-</div>
 
-
-
-**Doctor & Patient Management CRM** - [experteeth.in](https://experteeth.in)
-- Comprehensive SaaS CRM for healthcare professionals
-- Complete frontend solution for doctor and patient management
-- Handles appointments, patient records, treatments, and clinic operations
-- Streamlined workflow for dental and medical practices
-
-**Real Estate Property Management** - [app.bajajrealestate.com](https://app.bajajrealestate.com)
-- Property management and real estate dealing platform
-- Complete frontend solution for real estate operations
-- Manages property listings, client relationships, and transaction workflows
-- Built for real estate agencies and property dealers
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
